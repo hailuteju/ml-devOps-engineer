@@ -10,3 +10,5 @@ Some new git commands learned in this course:
 * git add
 * git commit -m "commit message"
 * git push origin <branch-name>
+* git checkout -b <branch-name> (to create and/or move to a branch)
+* git checkout -d <branch-name> (to delete a branch)
